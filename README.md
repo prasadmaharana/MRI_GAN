@@ -14,3 +14,5 @@ But to have access to different imaging is difficult and expensive. With the hel
 
 In this capstone, we will use CycleGAN to translate the style of one MRI image to another, which will help in a better understanding of the scanned image. Using GANs we will create T2 weighted images from T1 weighted MRI image and vice-versa.
 
+
+![image](https://user-images.githubusercontent.com/62944847/178301323-b8ca863a-801f-449b-8fbb-ccfbdc4fdb52.png)
